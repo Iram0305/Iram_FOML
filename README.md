@@ -1,3 +1,3 @@
-# Aayush_FOML
+# Iram_FOML
 
 https://aayushfoml-nedagtadhcddeendnnh9nf.streamlit.app/
